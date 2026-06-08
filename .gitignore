@@ -1,6 +1,8 @@
 dataset_1/
 processed/
 v1/dataset_v1/
+기타 파일/
+requirements.txt
 *.pt
 *.pth
 *.npy
