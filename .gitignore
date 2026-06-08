@@ -1,0 +1,9 @@
+dataset_1/
+processed/
+v1/dataset_v1/
+*.pt
+*.pth
+*.npy
+*.zip
+__pycache__/
+.ipynb_checkpoints/
