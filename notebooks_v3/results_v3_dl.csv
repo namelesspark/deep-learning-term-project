@@ -1,0 +1,3 @@
+model,PR_AUC,ROC_AUC,Recall,Precision,F1,threshold,notes
+MLP_V3,0.2305,0.9586,0.8774,0.0843,0.1538,0.5,"ResidualMLP+Wide, WeightedSampler, Focal(Optuna), PR_AUC early stopping"
+TabNet_V3,0.1192,0.9204,0.8725,0.0358,0.0688,0.5,"TabNet Optuna(n_d/n_steps/gamma/lambda_sparse/lr), weights=1"
